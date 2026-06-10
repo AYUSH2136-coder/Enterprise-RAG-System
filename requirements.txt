@@ -1,0 +1,11 @@
+pymupdf
+langchain
+sentence-transformers
+faiss-cpu
+anthropic
+nltk
+pyyaml
+python-dotenv
+pytest
+jupyter
+scikit-learn
