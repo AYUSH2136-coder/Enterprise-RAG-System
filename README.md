@@ -148,7 +148,7 @@ paths:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Enterprise-RAG-System.git
+git clone https://github.com/ayush2136-coder/Enterprise-RAG-System.git
 cd Enterprise-RAG-System
 ```
 
